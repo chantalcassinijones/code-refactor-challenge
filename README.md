@@ -19,19 +19,17 @@ N/A
 
 This is a simple homepage. All you need to do is open the webpage with your browser. The navigation bar has clickable links that take you to each of the main sections of the page. There is an aside on the right of the page, which highlights all the advantages of using this marketing company. 
 
-    ```md
-    ![Screenshot 1.png](assets/images/Screenshot 1.png)
-    ```
-      ```md
-    ![Screenshot 2.png](assets/images/Screenshot 2.png)
-    ```
-      ```md
-    ![Screenshot 3.png](assets/images/Screenshot 3.png)
-    ```
+    [Screenshot 1](assets/images/Screenshot 1.png)
+    
+    [Screenshot 2](assets/images/Screenshot 2.png)
+    
+    [Screenshot 3](assets/images/Screenshot 3.png)
+    
 
 ## Credits
 
-If you followed tutorials, include links to those here as well.
+I read the following articles to help me complete this challenge: 
+
 
 ## License
 Please refer to the license in the repo. 
