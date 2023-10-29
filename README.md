@@ -1,6 +1,6 @@
 # code-refactor-challenge
-First Challenge for Bootcamp in web-developing and UX
-# <Code-refactor-challenge>
+First Challenge for the University of Birmingham bootcamp in web-developing and UX
+
 
 ## Description
 
@@ -19,17 +19,28 @@ N/A
 
 This is a simple homepage. All you need to do is open the webpage with your browser. The navigation bar has clickable links that take you to each of the main sections of the page. There is an aside on the right of the page, which highlights all the advantages of using this marketing company. 
 
-    [Screenshot 1](assets/images/Screenshot 1.png)
-    
-    [Screenshot 2](assets/images/Screenshot 2.png)
-    
-    [Screenshot 3](assets/images/Screenshot 3.png)
-    
 
+md
+    ![Screenshot 1](./assets/images/screenshot1.png)
+
+ md   
+    ![Screenshot 2](./assets/images/screenshot2.png)
+    
+md
+    ![Screenshot 3](./assets/images/screenshot3.png)
+
+
+    
 ## Credits
 
 I read the following articles to help me complete this challenge: 
 
+[Read Me Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+[Getting started With Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[HTML tags](https://allthetags.com/)
+[Commit Message Guidelines](https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/)
+[CSS Organisation](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing)
+[Semantic Html](https://gist.github.com/kingluddite/e4a9018c5b793b162f6dd95c84c4acab)
 
 ## License
 Please refer to the license in the repo. 
