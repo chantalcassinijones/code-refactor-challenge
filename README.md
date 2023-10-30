@@ -4,7 +4,7 @@ First Challenge for the University of Birmingham bootcamp in web-developing and 
 
 ## Description
 
-This was the first challenge for the University of Birmingham bootcamp in front-end web-developing and UX. In this challenge, we had to refactor code. Our client was a marketing agency and they wanted to optimise their exisisting website for with accessibility in mind. 
+This was the first challenge for the University of Birmingham bootcamp in front-end web-developing and UX. In this challenge, we had to refactor code. Our client was a marketing agency and they wanted to optimise their exisisting website with accessibility in mind. 
 
 Guidelines for successful completition of this challenge included making sure that semantic html was used throughout and that it followed a logical structure; images and icons contained alt attributes; heading followed a sequential order;CSS selectors and properties had to be organised, consolidated and comments added for each section; titles needed to be concise and descriptive.
 
