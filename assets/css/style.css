@@ -76,16 +76,6 @@ nav ul li {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 /* || main content and images */
 
 main {
@@ -109,6 +99,16 @@ main {
 .online-reputation-management img,
 .social-media-marketing img {
     max-height: 200px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 
 /* || aside  */
